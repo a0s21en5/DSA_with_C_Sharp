@@ -31,6 +31,8 @@ upper bound
 
 - Cubic Time => 0(N Cube)
 
+Highest Complexity
+
 | Complexity    |
 |---------------|
 | O(N!)         |
@@ -41,3 +43,15 @@ upper bound
 | O(N)          |
 | O(log N)      |
 | O(1)          |
+
+Least Complexity
+
+
+# How to avoid Time Limit Exceeded [TLE]
+
+TLE
+
+- 10 to the power 8 Operation Rule
+
+Most if the modern machine can perform 10 to the power 8 Operation / Second
+

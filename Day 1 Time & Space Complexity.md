@@ -19,6 +19,8 @@ for avg-case  Complexity
 ##  Omega Notation (Ω-notation)
 upper bound 
 
+## Big O Notation (O-notation)
+
 - Constant Time => 0(1)
 
 - Linear Time => 0(n) 
@@ -28,3 +30,14 @@ upper bound
 - Quadratic Time => 0(N Square’s)
 
 - Cubic Time => 0(N Cube)
+
+-----------------
+- O(N!)         |
+- O(2 Power N)  |
+- O(N Cube)     |
+- O(N Square’s) |
+- O(N Log N)    |
+- O(N)          |
+- O(Log N)      |
+- O(1)          |
+-----------------

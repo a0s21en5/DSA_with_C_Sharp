@@ -31,13 +31,13 @@ upper bound
 
 - Cubic Time => 0(N Cube)
 
------------------
-- O(N!)         |
-- O(2 Power N)  |
-- O(N Cube)     |
-- O(N Square’s) |
-- O(N Log N)    |
-- O(N)          |
-- O(Log N)      |
-- O(1)          |
------------------
+| Complexity    |
+|---------------|
+| O(N!)         |
+| O(2^N)        |
+| O(N^3)        |
+| O(N^2)        |
+| O(N log N)    |
+| O(N)          |
+| O(log N)      |
+| O(1)          |

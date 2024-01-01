@@ -55,6 +55,6 @@ TLE
 
 Most if the modern machine can perform 10 to the power 8 Operation / Second
 
- # Space Complexity
+# Space Complexity
 
- 
+It measures the amount of memory an algorithm needs to execute, relative to the size of the input.

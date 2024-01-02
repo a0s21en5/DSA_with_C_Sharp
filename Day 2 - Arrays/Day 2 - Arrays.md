@@ -13,3 +13,35 @@
 - These elements are accessed using `subscripts` or `index number` that determine the position of the element in the array list.
 
 - C# supports zero-based index values in an array.
+
+## Array Declaration and Initialization
+
+First Type: Array Declaration and Initialization
+```
+int[] evenNums = new int[2]; // integer array
+evenNums[0] = 5;
+evenNums[1] = 15;
+```
+
+```
+string[] anime_characters = new string[2]; // string array
+
+cities[0] = "Naruto";
+cities[1] = "Hinata";
+```
+
+Second Type: Array Declaration and Initialization
+
+```
+int[] evenNums = new int[] {5, 15}; 
+
+string[] anime_characters = new string[2]{"Hinata","Naruto"}; 
+```
+
+Third Type: Array Declaration and Initialization
+
+```
+int[] evenNums = {5, 15}; 
+
+string[] anime_characters = {"Hinata","Naruto"}; 
+```

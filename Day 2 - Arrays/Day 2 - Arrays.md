@@ -14,6 +14,14 @@
 
 - C# supports zero-based index values in an array.
 
+- Arrays are reference type variables.
+
+- An array declaration specifies the type of data that it can hold and an identifier.
+
+- declaring an array does not allocate memory to the array.
+
+
+
 ## Array Declaration and Initialization
 
 First Type: Array Declaration and Initialization

@@ -1,9 +1,5 @@
 # DSA with C Sharp
 
-# Day 1
+- Level 1 - Fundamental Knowledge
 
-Time & Space Complexity || How to avoid Time Limit Exceeded [TLE]
-
-# Day 2
-
-Arrays
+- level 2 - Time & Space Complexity
